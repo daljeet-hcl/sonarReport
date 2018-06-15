@@ -2,8 +2,13 @@
 
 How to run project ?
 1. cd to project directory
-2. > npm install 
-3. node index.js
+# npm install required dependecy modules
+ > npm install xmlhttprequest
+ > npm install csvreader
+ > npm install csvwriter
+
+# Run the project 
+> node index.js
 
 
 # configure your projects
