@@ -12,10 +12,10 @@ configure all your projects in components.csv
 # Configure Rules 
 configure all your rules in rules.csv 
 
-#configure sonar-server location
+# configure sonar-server location
 convigure server location in index.js
 
-#saving output report  in file.
+# saving output report  in file.
 node index.js > sonarReport.csv
 
  
