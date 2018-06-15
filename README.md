@@ -3,9 +3,9 @@
 How to run project ?
 1. cd to project directory
 # npm install required dependecy modules
- . npm install xmlhttprequest
- . npm install csvreader
- . npm install csvwriter
+ * npm install xmlhttprequest
+ * npm install csvreader
+ * npm install csvwriter
 
 # Run the project 
 > node index.js
